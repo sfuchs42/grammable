@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an Instagram clone done for the UCF Coding Bootcamp. It allows for media uploads, user comments, and has user profile pages and a general feed.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+It uses Devise, for user authentication, Rspec for tests, and carrierwave and AWS for media hosting.
